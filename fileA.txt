@@ -1,1 +1,3 @@
 Functionality A version 2.0.
+
+This is a changed content of file A.
