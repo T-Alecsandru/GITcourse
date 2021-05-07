@@ -1,1 +1,3 @@
 Adacauga functionalitate fisierX.
+
+Modificari in fisierul X.
